@@ -113,9 +113,9 @@ body{
 }
 /* styling container */
 .select{
-    display: flex;
+     display: flex;
     background-image: url(../Access/background/background2.jpg);
-    background-size: 100% 75%;
+    background-size: 100% 75%; 
 
 }
 .card{
@@ -268,18 +268,17 @@ button:hover {
 }
 
 /* The Modal (background) */
-.modal {
+ .modal {
   display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
-  z-index: 1; /* Sit on top */
   left: 0;
   top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
-  overflow: auto; /* Enable scroll if needed */
+  width: 100%; /* Full width 
+  height: 100%; /* Full
+  overflow: auto; /* Enab
   background-color: #474e5d;
-  padding-top: 50px;
-}
+  padding-top: 50px;*/
+} 
 
 /* Modal Content/Box */
 .modal-content {
