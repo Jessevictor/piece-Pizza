@@ -270,14 +270,9 @@ button:hover {
 /* The Modal (background) */
  .modal {
   display: none; /* Hidden by default */
-  position: fixed; /* Stay in place */
+  position: center; /* Stay in place */
   left: 0;
-  top: 0;
-  width: 100%; /* Full width 
-  height: 100%; /* Full
-  overflow: auto; /* Enab
-  background-color: #474e5d;
-  padding-top: 50px;*/
+  top: 0; 
 } 
 
 /* Modal Content/Box */
