@@ -113,9 +113,9 @@ body{
 }
 /* styling container */
 .select{
-    /* display: flex;
+    display: flex;
     background-image: url(../Access/background/background2.jpg);
-    background-size: 100% 75%; */
+    background-size: 100% 75%;
 
 }
 .card{
